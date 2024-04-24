@@ -19,12 +19,13 @@ To write a program to perform selection sort and insertion sort using python pro
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Program:
 
-#Developed By: ASHWINA K N
+Developed By: ASHWINA K N
 
-#Register Number: 212223230025
+Register Number: 212223230025
 
-i)	#Selection Sort
-#Write a program to sort the elements in the list using the Selection Sort algorithm.
+i) Selection Sort:
+
+Write a program to sort the elements in the list using the Selection Sort algorithm.
 ```
 num=eval(input())
 for i in range(len(num)):
@@ -36,9 +37,9 @@ for i in range(len(num)):
 print(num)
 
 ```
-ii)	#Insertion Sort
+ii)	Insertion Sort:
 
-#Write a program to sort the elements in the list using the Insertion Sort algorithm.
+Write a program to sort the elements in the list using the Insertion Sort algorithm.
 
 ```
 
